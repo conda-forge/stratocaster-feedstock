@@ -22,7 +22,7 @@ requirements:
     - versioningit
   run:
     - python >={{ python_min }}
-    - gufe >=1.2.0,<1.3.0
+    - gufe >=1.2.0
 
 test:
   imports:
